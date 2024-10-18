@@ -1,0 +1,14 @@
+{
+  "name": "zbyog_test_4",
+  "version": "1.0.0",
+  "description": "ZBYOG_TEST_4",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/AE07CD422B321EEFA3A63899A3A854F6_0"
+  }
+}
